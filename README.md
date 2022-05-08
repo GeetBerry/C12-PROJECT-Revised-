@@ -1,2 +1,2 @@
-# C12-PROJECT-Revised-
-C12 PROJECT(Revised)
+# C12-project
+C12 project
